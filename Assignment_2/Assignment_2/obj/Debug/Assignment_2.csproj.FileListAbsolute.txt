@@ -1,0 +1,6 @@
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe.config
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\Assignment_2\Assignment_2\bin\Debug\Assignment_2.exe
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\Assignment_2\Assignment_2\bin\Debug\Assignment_2.pdb
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\Assignment_2\Assignment_2\obj\Debug\Assignment_2.csprojResolveAssemblyReference.cache
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\Assignment_2\Assignment_2\obj\Debug\Assignment_2.exe
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\Assignment_2\Assignment_2\obj\Debug\Assignment_2.pdb

@@ -5,12 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:HelloWorld"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="350" Width="525" WindowState="Maximized">
     <StackPanel Background="#FFD6C3C3">
         <TextBlock>Enter Name:</TextBlock>
         <TextBox x:Name="uxName" Background="#FFF0F0E4" TextChanged="uxPassword_TextChanged"/>
         <TextBlock>Enter Password:</TextBlock>
         <TextBox x:Name="uxPassword" Background="#FFDFF5F4" TextChanged="uxPassword_TextChanged" Panel.ZIndex="4"/>
         <Button x:Name="uxSubmit" Click="uxSubmit_Click" Background="#FFF07373" IsEnabled="False">Submit</Button>
+        <Button x:Name="button">
+            <CheckBox x:Name="checkBox" Content="CheckBox" Height="43" Width="102" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        </Button>
     </StackPanel>
 </Window>
