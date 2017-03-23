@@ -42,3 +42,5 @@ C:\Users\ebogutskyi\Downloads\csharp-client-master\csharp-client-master\HelloWor
 \\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
 \\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\HelloWorld\obj\Debug\MenuWindow.g.cs
 \\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\HelloWorld\obj\Debug\MenuWindow.baml
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\HelloWorld\obj\Debug\SecondWindow.g.cs
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\HelloWorld\obj\Debug\SecondWindow.baml

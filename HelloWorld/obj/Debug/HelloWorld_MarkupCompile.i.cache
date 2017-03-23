@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 \\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\HelloWorld\App.xaml
-2-563523860
+3-510519171
 
-10-2140604638
+12424086675
 13738642453
-MainWindow.xaml;MenuWindow.xaml;
+MainWindow.xaml;MenuWindow.xaml;SecondWindow.xaml;
 
-True
+False
 
