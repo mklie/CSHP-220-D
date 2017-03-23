@@ -1,0 +1,14 @@
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe.config
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\Assignment_4\Assignment_4\obj\Debug\MainWindow.g.cs
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\Assignment_4\Assignment_4\obj\Debug\App.g.cs
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\Assignment_4\Assignment_4\obj\Debug\Assignment_4_MarkupCompile.cache
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\Assignment_4\Assignment_4\obj\Debug\Assignment_4_MarkupCompile.lref
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\Assignment_4\Assignment_4\bin\Debug\Assignment_4.exe
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\Assignment_4\Assignment_4\bin\Debug\Assignment_4.pdb
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\Assignment_4\Assignment_4\obj\Debug\MainWindow.baml
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\Assignment_4\Assignment_4\obj\Debug\Assignment_4.g.resources
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\Assignment_4\Assignment_4\obj\Debug\Assignment_4.Properties.Resources.resources
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\Assignment_4\Assignment_4\obj\Debug\Assignment_4.csproj.GenerateResource.Cache
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\Assignment_4\Assignment_4\obj\Debug\Assignment_4.exe
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\Assignment_4\Assignment_4\obj\Debug\Assignment_4.pdb
+\\msrv01\personal\ebogutskyi\Documents\GitHub\CSHP-220-D\Assignment_4\Assignment_4\obj\Debug\Assignment_4.csprojResolveAssemblyReference.cache
