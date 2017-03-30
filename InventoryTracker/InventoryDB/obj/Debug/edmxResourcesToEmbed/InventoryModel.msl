@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="InventoryTrackerModelStoreContainer" CdmEntityContainer="InventoryTrackerEntities">
+    <EntitySetMapping Name="Items">
+      <EntityTypeMapping TypeName="InventoryTrackerModel.Item">
+        <MappingFragment StoreEntitySet="Items">
+          <ScalarProperty Name="ItemN" ColumnName="ItemN" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="TotalValue" ColumnName="TotalValue" />
+          <ScalarProperty Name="SelfCost" ColumnName="SelfCost" />
+          <ScalarProperty Name="QntyOnHand" ColumnName="QntyOnHand" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

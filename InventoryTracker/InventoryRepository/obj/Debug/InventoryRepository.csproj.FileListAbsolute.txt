@@ -1,0 +1,12 @@
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\InventoryTracker\InventoryRepository\bin\Debug\InventoryRepository.dll.config
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\InventoryTracker\InventoryRepository\bin\Debug\InventoryRepository.dll
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\InventoryTracker\InventoryRepository\bin\Debug\InventoryRepository.pdb
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\InventoryTracker\InventoryRepository\bin\Debug\EntityFramework.dll
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\InventoryTracker\InventoryRepository\bin\Debug\EntityFramework.SqlServer.dll
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\InventoryTracker\InventoryRepository\bin\Debug\InventoryDB.dll
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\InventoryTracker\InventoryRepository\bin\Debug\InventoryDB.pdb
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\InventoryTracker\InventoryRepository\bin\Debug\EntityFramework.xml
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\InventoryTracker\InventoryRepository\bin\Debug\EntityFramework.SqlServer.xml
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\InventoryTracker\InventoryRepository\obj\Debug\InventoryRepository.csprojResolveAssemblyReference.cache
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\InventoryTracker\InventoryRepository\obj\Debug\InventoryRepository.dll
+\\msrv01\personal\EBogutskyi\Documents\GitHub\CSHP-220-D\InventoryTracker\InventoryRepository\obj\Debug\InventoryRepository.pdb
